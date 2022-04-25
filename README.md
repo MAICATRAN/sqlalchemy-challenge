@@ -1,6 +1,6 @@
 ### sqlalchemy-challenge
 ### It contains:
-#### 1 climate_starter_jupyter
+#### 1 climate_starter_jupyter: including Bonus 2
 #### 2. temp_analysis_bonus_1_starter_jupyter
 #### 3. temp_analysis_bonus_2_starter_jupyter
 ### 4. Precipitation analysis image
